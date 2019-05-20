@@ -141,7 +141,7 @@
 \RequirePackage[CJKnumber,CJKchecksingle,AutoFakeBold=true]{xeCJK}
 \fi
 \RequirePackage{CJKnumb}
-\defaultfontfeatures{Mapping=tex-text}
+% \defaultfontfeatures{Mapping=tex-text}
 \punctstyle{fullwidth}
 \RequirePackage{xeCJKfntef}
 \xeCJKsetup{ underline/format = \color{black} }
