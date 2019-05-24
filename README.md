@@ -2,13 +2,18 @@
 
 **注意：本模板虽基本完工，仍可能存在样式问题。请提出您发现的排版问题，欢迎 PR！**
 
-本项目提供了一个用于排版江南大学学位论文的XeLaTeX模板。本项目乃[南京大学学位论文模板 NJU-Thesis][njuthesis] 的移植。
+感谢 [Wang Xuerui](https://github.com/xen0n) 提供的 JNU-Thesis 模板，项目地址：https://github.com/xen0n/JNUthesis
+
+本项目提供了一个用于排版江南大学学位论文的XeLaTeX模板。本项目是[南京大学学位论文模板 NJU-Thesis][njuthesis] 的移植。
 
 [njuthesis]: https://github.com/Haixing-Hu/nju-thesis
 
 目前该模板支持排版学士和硕士（学术型与专业型）的学位论文。
 
-虽然该模板主要用于排版江南大学的学位论文，但亦可经过简单的设置或修改用于排版国内其他大学的学位论文。
+## 使用指南
+推荐使用Latex+VSCode进行开发
+
+参考[`Guide.md`](./Guide.md)
 
 ## 功能特色
 
@@ -79,6 +84,10 @@
 
 如此即可直接生成符合要求的终稿PDF文档，不必手工完成PDF页面的分离、合并等操作了。
 
+## 可参考子项目
+感谢 [mchen19](https://github.com/mchen19) 开源的江南大学本科毕业论文模板和Latex开发的答辩PPT
+
+项目地址：https://github.com/mchen19/bachelor-thesis
 
 ## 支持环境
 
@@ -100,9 +109,3 @@
 * （或已修复）macOS，MacTeX BasicTeX：校名 logo 缺失。请使用完整 MacTeX 安装
 
 
-## TODO
-
-* 更多论文封面
-	- 专业学位（在职）学位
-	- 同等学力硕士学位
-	- 高校教师硕士学位
