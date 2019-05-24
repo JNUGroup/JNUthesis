@@ -99,13 +99,16 @@
 	- Windows
 * TeX 发行版
 	- TeXLive
+* VSCode 
+        - 具体参考[`Guide.md`](./Guide.md)
 * 字体选项
 	- `sourcefonts`
 	- `adobefonts`
+	- `fandolfonts`
 
 以下环境存在已知问题：
 
-* TeXLive 2016，`winfonts` 选项：PDF 内文字复制粘贴乱码
-* （或已修复）macOS，MacTeX BasicTeX：校名 logo 缺失。请使用完整 MacTeX 安装
+* TeXLive 2016，`winfonts` 选项：PDF 内文字复制粘贴乱码 
+
 
 
