@@ -52,8 +52,8 @@
 <br/>
 安装完后，确定可以使用的字体有adobefonts和fandolfonts，个别字体如winfonts从PDF复制会出现乱码。
 ### 5. 加载文件<br/>
-最后一步，将本目录下的doc加载到vscode里面.<br/>
-ctrl+s即可编译
+最后一步，将本目录下的文件加载到vscode里面.<br/>
+然后选择要编辑的.tex文件，ctrl+s即可编译
 
 所需要的所有文件在&ensp;[这里下载](https://pan.baidu.com/s/1pwQXA7vA_jxGatDzEBTKpA) &ensp; 密码: adnb <br/>
 有编译错误的请自行baidu,google都可以找到解决方法，可以参考latex教程，一些常见的问题也可以参考[这里](https://github.com/xen0n/JNUthesis/issues)
