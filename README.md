@@ -87,7 +87,7 @@
 ## 可参考子项目
 感谢 [mchen19](https://github.com/mchen19) 开源的江南大学本科毕业论文模板和Latex开发的答辩PPT
 
-项目地址：https://github.com/mchen19/bachelor-thesis
+项目地址：https://github.com/JNUGroup/bachelor-thesis
 
 ## 支持环境
 
