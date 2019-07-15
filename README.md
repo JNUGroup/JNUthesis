@@ -1,6 +1,10 @@
 # JNU-Thesis
 
-**注意：本模板虽基本完工，仍可能存在样式问题。请提出您发现的排版问题，欢迎 PR！**
+**NOTE** 
+
+There may be some incorrect information in the article. I hope i can correct error with you.  you can contact me with Email or PR
+
+## Pull Request welcome:blush:
 
 感谢 [Wang Xuerui](https://github.com/xen0n) 提供的 JNU-Thesis 模板，项目地址：https://github.com/xen0n/JNUthesis
 
